@@ -1,7 +1,6 @@
-# Wikipedia table web scraper
-#### Video Demo:  <URL HERE>
+# web scraper for tables
+#### Video Demo:  https://youtu.be/hoKJ7FWhiek?si=kENyGwgPt2U_9fr5
 #### Description:
-
 
 _project.py_ is a python web scraper that is capable of scraping simple tables and converting them into csv files.
 
