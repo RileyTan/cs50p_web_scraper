@@ -2,7 +2,7 @@
 #### Video Demo:  https://youtu.be/hoKJ7FWhiek?si=kENyGwgPt2U_9fr5
 #### Description:
 
-_project.py_ is a python web scraper that is capable of scraping simple tables and converting them into csv files.
+_project.py_ is a python web scraper that scrapes simple tables and converting them into csv files.
 
 All files and folders are located in cs50p_final_project with project.py and test_project.py in the root.
 
